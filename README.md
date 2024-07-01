@@ -72,6 +72,6 @@ Apply reposition by specified menu item or Ctrl+Shift+S shortcut. Use default re
 
 8. Check if it applied correctly
 
-Applied correctly if sort field is growing with new number in cards display mode.
+Applied correctly if sort field is growing with new number in cards display mode
 ### End
 Work is done. Safely delete sort field with using same menu as sort field creation. Upload your changes to Anki web and other devices. You can safely delete add-on if needed and start using deck
