@@ -1,0 +1,10 @@
+{
+    "note_type": "eng-rus.slovaronline.com",
+    "deck": "eng-rus.slovaronline.com",
+    "number_of_known_words": 0,
+    "word_field": "слово",
+    "definitions_field": "перевод",
+    "sort_field": "sort_field",
+    "learning_priority_estimator": "linear_nuber_of_definitions_impact_learn_all",
+    "number_of_definitions_estimator": "slovaronline"
+}
