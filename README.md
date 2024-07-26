@@ -11,7 +11,7 @@ default_priority = ffreq * (1 - known_probability) / number_of_definitions
 For adding new number of definitions estimator add and decorate function in src/number_of_definitions_estimators.py and for adding priority estimator use src/learning_priority_estimators.py the same way
 ## Setting sort values
 ### Add-on installation
-Use standart Anki add-on procedure or move content or src to any empty folder in dedicated directory
+Use standart Anki add-on procedure or move content of src to any empty folder in dedicated directory
 ### Cautions
 #### Saving copy of deck
 For reason of any possible errors highly recommend to save copy of deck with progress made
