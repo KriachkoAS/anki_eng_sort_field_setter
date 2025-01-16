@@ -2,3 +2,4 @@ readme.ipynb
 __pycache__/
 .env
 .env.*
+deck.csv
