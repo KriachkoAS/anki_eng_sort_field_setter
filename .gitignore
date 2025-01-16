@@ -1,2 +1,4 @@
 readme.ipynb
 __pycache__/
+.env
+.env.*
