@@ -1,6 +1,6 @@
 {
-    "name": "base python 3",
-	"dockerComposeFile": "docker-compose.yml",
+    "name": "anki_eng_sort_field_setter",
+	"dockerComposeFile": "compose.yml",
 	"service": "devcontainer",
 	"workspaceFolder": "/workspace",
 
